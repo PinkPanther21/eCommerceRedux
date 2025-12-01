@@ -169,7 +169,7 @@ Add issues for larger changes so we can discuss design before implementation.
 ---
 
 ## License
-This project is open source — add a LICENSE file (e.g. MIT) if you want to permit reuse.
+This project is open source.
 
 ---
 
